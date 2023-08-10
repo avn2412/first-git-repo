@@ -1,1 +1,1 @@
-print('Entrenar un modelo inventaaado')
+print('Entrenar un modelo v1')
